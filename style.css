@@ -23,7 +23,7 @@ body{
 }
 span{
     background: -webkit-linear-gradient(#FBA24F,#FF1E1E);
-    background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .header-section h5{
